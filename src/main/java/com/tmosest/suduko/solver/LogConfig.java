@@ -1,5 +1,8 @@
 package com.tmosest.suduko.solver;
 
+/**
+ * Config object for logging.
+ */
 public class LogConfig {
   private static boolean debugMode = false;
 
